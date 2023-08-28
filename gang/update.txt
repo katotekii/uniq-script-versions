@@ -1,1 +1,3 @@
-- Added support for qb-target
+- Added option to disable integrated vehicles
+- Now when you disable dealership also owned vehicles disables
+- Added option for wardrobe on level up marker, in client/editable.lua you need to put your event for opening wardrobe
