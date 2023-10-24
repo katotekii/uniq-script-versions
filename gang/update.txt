@@ -1,4 +1,3 @@
-- Due to alot of requests stash is not anymore physical object, now it is marker like rest
-- Added support for ESX 1.10.0 and above
-- Script is third eye script free from now (doesn't need anymore any third eye script)
-- Code improvement
+- Added new command `uisetgang`, helps you to set gang via UI, works with both esx and qb-core
+### TODO
+- Add territories capturing
