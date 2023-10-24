@@ -1,0 +1,6 @@
+- Script is not anymore limited to specific inventory, in `server/editable.lua` you can add code from your inventory if provided code doesn't work for you
+- Major code tweaks
+- Reduced distance between plants from `5` units to `2.5`
+
+- TODO
+- Support multiplie types of weed strains
