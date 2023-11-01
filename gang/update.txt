@@ -1,3 +1,2 @@
-- Added new command `uisetgang`, helps you to set gang via UI, works with both esx and qb-core
-### TODO
-- Add territories capturing
+- Added option for search player on F6 menu
+- You can chose in config whether player need to be cuffed or not to be searchen
