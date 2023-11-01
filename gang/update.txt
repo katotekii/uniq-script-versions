@@ -1,2 +1,2 @@
 - Added option for search player on F6 menu
-- You can chose in config whether player need to be cuffed or not to be searchen
+- You can chose in config whether player need to be cuffed or not to be searched
