@@ -1,2 +1,1 @@
-- Added option for search player on F6 menu
-- You can chose in config whether player need to be cuffed or not to be searched
+- Allow overwriting existing data in SQL (ESX ONLY) 
