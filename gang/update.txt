@@ -1,1 +1,1 @@
-- Allow overwriting existing data in SQL (ESX ONLY) 
+- Allow overwriting existing data in SQL (addon_account, addon_inventory, datastore, jobs, job_grades) (ESX ONLY) 
