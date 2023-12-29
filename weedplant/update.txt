@@ -1,1 +1,3 @@
-- Fixed problem with plant stacking upon using logout on multichar
+- ability to change notification system to your own
+- ability to use your dispatch system with corner selling
+- both can be changed in client/editable.lua
