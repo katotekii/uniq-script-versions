@@ -1,1 +1,1 @@
-- cuffing fix
+- (ESX only), fix for boss menu when using metadata as job field

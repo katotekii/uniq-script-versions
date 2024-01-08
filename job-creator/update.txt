@@ -1,0 +1,1 @@
+- fix for setting properties on vehicles
