@@ -1,3 +1,5 @@
-- ability to change notification system to your own
-- ability to use your dispatch system with corner selling
-- both can be changed in client/editable.lua
+- Moving Plants
+  - You can move only one plant at a time.
+  - You can move only plants that you own.
+  - While a plant is in the "moving" state, its growth will stop (hunger and thirst also won't change).
+  - The moving status is saved between script restarts.
