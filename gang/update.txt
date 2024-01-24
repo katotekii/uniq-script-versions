@@ -1,1 +1,1 @@
-- (ESX only), fix for /setgang command when using metadata as job field
+- added support for qbx_core
