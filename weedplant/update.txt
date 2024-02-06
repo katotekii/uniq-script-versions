@@ -1,5 +1,1 @@
-- Moving Plants
-  - You can move only one plant at a time.
-  - You can move only plants that you own.
-  - While a plant is in the "moving" state, its growth will stop (hunger and thirst also won't change).
-  - The moving status is saved between script restarts.
+- code improvement, less memory usage
