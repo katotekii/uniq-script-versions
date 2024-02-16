@@ -1,1 +1,7 @@
-- code improvement, less memory usage
+- added feature to create an unlimited number of weed strains (in `shared/config.lua` you have an example for one, you can also find images in the `item_images` folder).
+- locales are moved to `locales/en.lua` for easier understanding.
+- corner selling doesn't use any third-party scripts anymore (qtarget, ox_target, or qb-target).
+- since your weed in the older version didn't have their version, in the new version, their strain type will be identified as `unknown`. You can still harvest them and sell (when harvesting, you will get the item that you used before in the `items.rewardItem` table, when selling them, their price can be defined under `priceForUnknown`).
+- the webhook URL for logs is now moved to the server-only file `shared/server_config.lua` for security reasons.
+- accessible code can be found [here](https://docs.uniq-scripts.com/documentation/paid-resources/weed-planting/qb-core-install/accessible-code).
+- code improvement
