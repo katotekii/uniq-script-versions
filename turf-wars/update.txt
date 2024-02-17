@@ -1,1 +1,1 @@
-- fixes for incorrect unix time check
+- fixes for some errors on black market when using points as currency
