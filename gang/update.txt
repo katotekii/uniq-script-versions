@@ -1,1 +1,2 @@
-- added support for qbx_core
+- added feature for paychecks (in config/config.lua you can disable this feature, chose between paying from gang balance etc.)
+- added required level for purchasing vehicles (in config/vehicles.lua you can chose which level is required to purchase specific vehicle)
