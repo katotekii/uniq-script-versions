@@ -1,2 +1,1 @@
-- added missing required level in dealership description while purchasing vehicle
-- level 4 isn't max anymore, there is no max level anymore
+- fixed setting non existing grade via boss menu on qbx core

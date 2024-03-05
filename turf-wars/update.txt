@@ -1,1 +1,1 @@
-- fixes for some errors on black market when using points as currency
+- fixed money check on money wash for qbx core
