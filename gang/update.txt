@@ -1,1 +1,1 @@
-- fixed setting non existing grade via boss menu on qbx core
+- fixed updating grades via boss menu for esx (when using metadata as setJobField)
