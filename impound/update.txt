@@ -1,1 +1,2 @@
-- Fix for qb target usage
+- fixed incorrect date check (you will have to migrate vehicles in order to work, simply after script is started, run /migrateimpound in tx console and wait for script to finish their work, after that you are good to go :) )
+- added command /returnveh for admins to return vehicles to players
