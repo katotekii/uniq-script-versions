@@ -1,0 +1,2 @@
+- code improvement
+- in client/editable.lua you can add keys from your key script

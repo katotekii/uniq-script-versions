@@ -1,1 +1,2 @@
-- fix for setting properties on vehicles
+- fixed not registering stash upon job creating
+- fixed setting incorrect job upon finishing creating job
