@@ -1,1 +1,1 @@
-- fixed updating grades via boss menu for esx (when using metadata as setJobField)
+- fix for max level
