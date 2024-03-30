@@ -1,1 +1,1 @@
-- fix for max level
+- option for mafia actions (cuff, uncuff, search etc.) to be used on target (EXPERIMENTAL)
