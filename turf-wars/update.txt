@@ -1,1 +1,1 @@
-- fixed money check on money wash for qbx core
+- fixed issue when player dies while capturing that can't start capturing again
