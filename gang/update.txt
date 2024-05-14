@@ -1,1 +1,1 @@
-- option for mafia actions (cuff, uncuff, search etc.) to be used on target (EXPERIMENTAL)
+- Added support for: CodeM Inventory, Ps Inventory, LJ Inventory
