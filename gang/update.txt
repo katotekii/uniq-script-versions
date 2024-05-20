@@ -1,1 +1,4 @@
-- Added support for: CodeM Inventory, Ps Inventory, LJ Inventory
+- Fixed not showing impound and dealership when restarting script
+- Functions `GiveCarKeys` & `RemoveCarKeys` are moved to `client/editable.lua`
+- Improved logic for spawning and deleting vehicles
+- Command `/setgang` is removed to reduce confusion, you always use `/uisetgang` no matter which `setJobField` you use
