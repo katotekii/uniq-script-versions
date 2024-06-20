@@ -1,1 +1,2 @@
-- Added support for: CodeM Inventory
+- Added export OpenCaseByID for using in external assets
+- More about export: https://docs.uniq-scripts.com/documentation/paid-resources/evidence-system/api
