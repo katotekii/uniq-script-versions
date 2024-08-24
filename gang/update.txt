@@ -1,4 +1,2 @@
 - Code improvements
-- Memory usage reduced
-- Bridge is not locked anymore (older qb has boss status stored inside job, newer inside grade, you can modify that here	)
-- New qb inventory is still WIP, can't be implemented yet
+- Fixed /tpbase command
