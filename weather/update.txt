@@ -1,1 +1,1 @@
-- Just update to new version
+- Added workaround to sync GTA summer time with IRL time, in config you need configure Config.HoursManager for your desires.
