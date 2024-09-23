@@ -1,2 +1,1 @@
-- Code improvements
-- Fixed /tpbase command
+- Fixed invalid plate argument when giving keys
