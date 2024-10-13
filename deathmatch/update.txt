@@ -1,0 +1,1 @@
+- Added function AfterEventFinish which allows you to execute some code after event is finished (request from customer)
