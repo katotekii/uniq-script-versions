@@ -1,1 +1,1 @@
-- fixed issue when player dies while capturing that can't start capturing again
+- Added support for Rcore Gangs
