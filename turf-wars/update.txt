@@ -1,1 +1,1 @@
-- Added support for Rcore Gangs
+- Better logic for checking blacklisted jobs
